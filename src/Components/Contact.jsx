@@ -72,7 +72,7 @@ const publicKey = "pkPe6ZGuZcAYvWIYt";
                   
                </div>
             </div>
-            <div className="w-full md:w-1/2 m-0 p-0">
+            <div className="w-72 md:w-1/2 m-0 p-0">
             <div className="card shrink-0 max-w-sm shadow-2xl bg-lime-100">
                <form onSubmit={handleSubmit} 
                   className="card-body">
