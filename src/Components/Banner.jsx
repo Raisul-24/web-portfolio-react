@@ -3,7 +3,7 @@ import { TypeAnimation } from 'react-type-animation';
 const Banner = () => {
    const handleDownload = () => {
       const downloadLink = document.createElement('a');
-      downloadLink.href = 'https://drive.google.com/uc?export=download&id=1c0FQJ1on1FanX7JVXwtulPH5Hzvvv4XW';
+      downloadLink.href = 'https://drive.google.com/uc?export=download&id=1WiEtogLNAda4ahhoBInrwdgGn13uy0Jj';
       downloadLink.download = 'Raisul_Resume.pdf';
       downloadLink.target = '_blank'; // Open in a new tab (optional)
       downloadLink.click();
